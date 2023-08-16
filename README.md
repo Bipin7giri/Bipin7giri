@@ -6,9 +6,9 @@ I'm a dedicated JavaScript/TypeScript developer who's enthusiastic about craftin
 
 ## Tech Stack
 
-- **Frontend**: Proficient in creating captivating user interfaces using React.js and Next.js. I excel in crafting responsive designs, managing state with Redux, and using modern CSS-in-JS solutions for seamless styling.
+- **Frontend**: Proficient in creating captivating user interfaces using React.js and Next.js. I excel in crafting responsive designs, managing state with Redux,(Saga and Thunk).
 
-- **Backend**: I've got your backend needs covered with Node.js and Nest.js. Whether it's architecting RESTful APIs or developing robust GraphQL endpoints, I relish building scalable and maintainable server-side solutions.
+- **Backend**: I've got your backend needs covered with Node.js and Nest.js. Whether it's architecting RESTful APIs or developing robust Rest endpoints, I relish building scalable and maintainable server-side solutions.
 
 - **Mobile**: My expertise extends to mobile app development using React Native. I've successfully transformed ideas into cross-platform apps that deliver a native experience on both iOS and Android.
 
