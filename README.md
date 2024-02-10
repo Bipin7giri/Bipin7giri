@@ -16,17 +16,6 @@ I'm a dedicated JavaScript/TypeScript developer who's enthusiastic about craftin
 
 Apart from development, I'm also well-versed in DevOps practices and cloud infrastructure. I have experience setting up and configuring virtual private servers (VPS) on platforms like EC2. I'm comfortable with light shell scripting and creating scheduled tasks using cron jobs.
 
-## Some of My Projects
-
-Here are a few of my projects that demonstrate my skills and passion:
-
-| Project Name       | Description                                        | Tech Stack         |
-|--------------------|----------------------------------------------------|--------------------|
-| [NPM package](https://github.com/Bipin7giri/NodeJS_cli.git) | NodeJS CLI - a powerful tool designed to simplify the process of creating API endpoints in Node.js applications. This CLI automates the generation of endpoints, including GET, POST, PUT, and PATCH methods, along with essential components like controllers, routers, and services.     | js, Node.js, express, knex js |
-| [Electronic informative site](https://github.com/Bipin7giri/gadgetbackendnest) | A platform to explore the latest electronic devices and their features. Built using Nest.js and Node.js for the backend.     | Nest.js, Node.js, TypeScript |
-| [School Management System](https://github.com/Bipin7giri/smsbackend) | An advanced system for managing school operations, featuring user authentication and database integration. Developed using TypeScript, Express, and Postgres.   | TypeScript, Express, Postgres   |
-| [Social Media](https://github.com/MERNSTACKSOCIALMEDIA) | A social media application that allows users to connect, share, and engage with content. Utilizes the MERN stack for a full-stack experience.                 | MERN Stack |
-| [Food App](https://github.com/Bipin7giri/food_app) | A mobile app designed to explore different types of food recipes. Created using React Native for a smooth cross-platform experience.                 | React Native  |
 
 ## Let's Connect
 
