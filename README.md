@@ -1,4 +1,4 @@
-# Hey, I'm [Bipin Giri] 👋
+# Hey, I'm Bipin Giri 👋
 
 ## About Me
 
